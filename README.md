@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1>I am venkat</h1>
-<h1 align="center">Hi, I'm Shubh A Chudasama</h1>
+<h1 align="center">Venkat </h1>
 
 <p align="center">
   <a href="https://www.hackerrank.com/thirupathivenka1"><img src="https://img.shields.io/static/v1?label=HackerRank&message=thirupathivenka1&style=flat-square&logo=HackerRank&color=blue" alt="HackerRank logo" /></a>
