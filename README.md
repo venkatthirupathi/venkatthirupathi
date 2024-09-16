@@ -3,7 +3,7 @@
 <h1 align="center">Venkat </h1>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/thirupathivenka1"><img src="https://img.shields.io/static/v1?label=HackerRank&message=thirupathivenka1&style=flat-square&logo=HackerRank&color=blue" alt="HackerRank logo" /></a>
+  <a href="https://www.hackerrank.com/profile/venkat_2005"><img src="https://img.shields.io/static/v1?label=HackerRank&message=venkat_2005&style=flat-square&logo=HackerRank&color=blue" alt="HackerRank logo" /></a>
   <a href="https://www.linkedin.com/in/thirupathivenkat/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=thirupathivenkat&style=flat-square&logo=LinkedIn&color=blue" alt="LinkedIn logo" /></a>
   <a href="https://leetcode.com/thirupathivenkat2005/"><img src="https://img.shields.io/static/v1?label=LeetCode&message=thirupathivenkat2005&style=flat-square&logo=LeetCode&color=blue" alt="LeetCode logo" /></a>
 </p>
