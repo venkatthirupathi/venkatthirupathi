@@ -24,10 +24,23 @@
 
 ## 🔥 About Me
 
-- 🎓 I'm currently pursuing B.Tech in **Computer Science and Engineering**
+- 🎓 Currently pursuing **B.Tech in Computer Science and Engineering**
 - 🧠 Skilled in **React.js**, **Node.js**, **MongoDB**, **JavaScript**, **Java**, and more
-- 🔐 Focused on secure and scalable web apps with features like **JWT Auth**, **MFA**, and **Role-Based Access**
-- 👨‍💻 I enjoy working on **real-time collaborative apps** and exploring **new tech stacks**
+- 🔐 Building secure, scalable web apps with **JWT Auth**, **MFA**, **Role-Based Access**
+- 👨‍💻 Passionate about **real-time collaboration** and **innovative UIs**
+
+---
+
+## 🎓 Certified Courses
+
+| Course | Platform | Certificate |
+|-------|----------|-------------|
+| Full Stack Development | Coursera | [View Certificate](https://coursera.org/verify/some-cert-id) |
+| JavaScript (Advanced) | Udemy | [View Certificate](https://udemy.com/certificate/some-cert-id) |
+| MongoDB Basics | MongoDB University | [View Certificate](https://learn.mongodb.com/certificates/some-cert-id) |
+| React Developer | Meta (Coursera) | [View Certificate](https://coursera.org/verify/some-cert-id) |
+
+> ⚠️ Replace the above links with your actual certificate URLs.
 
 ---
 
@@ -46,37 +59,41 @@
 
 ## 📂 Featured Projects
 
-### 🔐 Secure Authentication System
-> A secure login/signup system with **JWT, MFA, hashed passwords**, and **role-based access**  
-**Tech:** React, Node.js, Express, MongoDB  
-🔗 *Deployed on Vercel*
+### 🔐 Secure Auth System
+> Login/signup system with **JWT, MFA**, and **Role-Based Access**  
+🔧 *Stack:* React, Node.js, Express, MongoDB  
+🌐 *Deployed on Vercel*
 
----
-
-### 👥 Codemeet – Real-Time Code Collaboration
-> Collaborate on code live using WebSockets and Socket.IO  
-**Tech:** React, Express, Socket.io  
-🧪 *Google Docs for developers — Built from scratch*
+### 👥 Codemeet – Real-Time Collaboration
+> WebSocket-based live coding platform with **collab-editing**  
+🔧 *Stack:* React, Express, Socket.io  
+🧪 *Google Docs-like experience*
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkatthirupathi&show_icons=true&theme=tokyonight&cache_seconds=86400" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatthirupathi&layout=compact&theme=tokyonight&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=venkatthirupathi&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatthirupathi&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatthirupathi&theme=tokyonight" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=venkatthirupathi&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=venkatthirupathi&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://badges.pufler.dev/commits/monthly/venkatthirupathi" alt="Monthly commits" />
 </p>
 
 ---
 
 ## 📬 Let's Connect!
 
-📫 Email me at: **thirupathivenkat2005@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/thirupathi-venkat-8900102a6/)
+📧 Email: **thirupathivenkat2005@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/thirupathi-venkat-8900102a6/)  
+💻 [GitHub](https://github.com/venkatthirupathi)
 
 ---
 
