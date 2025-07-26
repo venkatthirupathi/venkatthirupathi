@@ -38,7 +38,7 @@
 | 🌐 [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) |
 | 🎨 [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) |
 | 📜 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
-| ⚛️ [React.js](https://reactjs.org/docs/getting-started.html) |
+| ⚛️ [React.js](https://react.dev/learn) |
 | 🟢 [Node.js](https://nodejs.org/en/docs) |
 | 🍃 [MongoDB](https://www.mongodb.com/docs/) |
 | 🛠️ [Git](https://git-scm.com/doc) |
