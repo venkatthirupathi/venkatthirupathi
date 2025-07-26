@@ -31,29 +31,18 @@
 
 ---
 
-## 🎓 Certified Courses
-
-| Course | Platform | Certificate |
-|-------|----------|-------------|
-| Full Stack Development | Coursera | [View Certificate](https://coursera.org/verify/some-cert-id) |
-| JavaScript (Advanced) | Udemy | [View Certificate](https://udemy.com/certificate/some-cert-id) |
-| MongoDB Basics | MongoDB University | [View Certificate](https://learn.mongodb.com/certificates/some-cert-id) |
-| React Developer | Meta (Coursera) | [View Certificate](https://coursera.org/verify/some-cert-id) |
-
-> ⚠️ Replace the above links with your actual certificate URLs.
-
----
-
 ## 🚀 Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+| Skill         | Documentation Link |
+|---------------|--------------------|
+| 🌐 [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) |
+| 🎨 [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) |
+| 📜 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| ⚛️ [React.js](https://reactjs.org/docs/getting-started.html) |
+| 🟢 [Node.js](https://nodejs.org/en/docs) |
+| 🍃 [MongoDB](https://www.mongodb.com/docs/) |
+| 🛠️ [Git](https://git-scm.com/doc) |
+| 🖊️ [VS Code](https://code.visualstudio.com/docs) |
 
 ---
 
