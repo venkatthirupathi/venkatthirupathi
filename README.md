@@ -73,7 +73,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=venkatthirupathi&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://badges.pufler.dev/commits/monthly/venkatthirupathi" alt="Monthly commits" />
+<!--   <img src="https://badges.pufler.dev/commits/monthly/venkatthirupathi" alt="Monthly commits" /> -->
 </p>
 
 ---
